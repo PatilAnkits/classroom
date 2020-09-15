@@ -1,0 +1,38 @@
+{
+  "name": "classroom",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "bootstrap-vue": "^2.16.0",
+    "core-js": "^3.6.5",
+    "firebase": "^7.19.1",
+    "firebaseui": "^4.6.1",
+    "lottie-player-vue": "0.0.14",
+    "lottie-vuejs": "^0.3.6",
+    "vue": "^2.6.12",
+    "vue-lottie": "^0.2.1",
+    "vue-resource": "^1.5.1",
+    "vue-router": "^3.2.0",
+    "vuefire": "^2.2.4",
+    "vuetify": "^2.3.10",
+    "vuex": "^3.5.1"
+  },
+  "devDependencies": {
+    "@mdi/font": "^5.5.55",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "vue-cli-plugin-vuetify": "~2.0.7",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
